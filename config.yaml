@@ -1,0 +1,9 @@
+source_directory: "./test_files"
+backup_directory: "./backup"
+log_file: "./logs/app.log"
+
+file_types:
+  images: [".jpg", ".png", ".jpeg"]
+  documents: [".pdf", ".txt", ".docx"]
+  videos: [".mp4", ".avi"]
+  code: [".py", ".js"]

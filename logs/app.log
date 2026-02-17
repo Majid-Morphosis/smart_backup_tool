@@ -1,0 +1,17 @@
+2026-02-17 15:22:52,347 - INFO - Backup process started
+2026-02-17 15:22:52,348 - INFO - Backed up test_files\New Bitmap Image.bmp to backup\others\New Bitmap Image.bmp
+2026-02-17 15:22:52,349 - INFO - Backed up test_files\New Bohemia Interactive IFA.ifa to backup\others\New Bohemia Interactive IFA.ifa
+2026-02-17 15:22:52,349 - INFO - Backed up test_files\New Bohemia Interactive PBO.pbo to backup\others\New Bohemia Interactive PBO.pbo
+2026-02-17 15:22:52,350 - INFO - Backed up test_files\New Rich Text Document.rtf to backup\others\New Rich Text Document.rtf
+2026-02-17 15:22:52,350 - INFO - Backed up test_files\New WinRAR ZIP archive.zip to backup\others\New WinRAR ZIP archive.zip
+2026-02-17 15:22:52,350 - INFO - Backup process completed
+2026-02-17 15:24:23,592 - INFO - Backup process started
+2026-02-17 15:24:23,593 - INFO - Backed up test_files\config.cpp to backup\others\config.cpp
+2026-02-17 15:24:23,594 - INFO - Backed up test_files\hi.py to backup\code\hi.py
+2026-02-17 15:24:23,594 - INFO - Backed up test_files\New Bitmap Image.bmp to backup\others\New Bitmap Image.bmp
+2026-02-17 15:24:23,595 - INFO - Backed up test_files\New Bohemia Interactive IFA.ifa to backup\others\New Bohemia Interactive IFA.ifa
+2026-02-17 15:24:23,595 - INFO - Backed up test_files\New Bohemia Interactive PBO.pbo to backup\others\New Bohemia Interactive PBO.pbo
+2026-02-17 15:24:23,595 - INFO - Backed up test_files\New Rich Text Document.rtf to backup\others\New Rich Text Document.rtf
+2026-02-17 15:24:23,596 - INFO - Backed up test_files\New Text Document.txt to backup\documents\New Text Document.txt
+2026-02-17 15:24:23,596 - INFO - Backed up test_files\New WinRAR ZIP archive.zip to backup\others\New WinRAR ZIP archive.zip
+2026-02-17 15:24:23,596 - INFO - Backup process completed
