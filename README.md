@@ -4,11 +4,17 @@ File Automation Tool (Python) A Python-based automation tool for organizing file
  📌 Features
  
 ✅ Scan directories recursively
+
 ✅ Categorize files by type (documents, images, videos, code, etc.)
+
 ✅ Automatic backup with structured folders
+
 ✅ Configurable via config.yaml
+
 ✅ Logging for monitoring and debugging
+
 ✅ Command Line execution (CLI)
+
 ✅ Modular and clean project structure
 
 🧪 Testing
